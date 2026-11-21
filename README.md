@@ -1,4 +1,4 @@
-
+https://github.com/DhanashriDhatrak/eSim-Toolchain-Guardian.git
 # eSim Toolchain Guardian
 
 eSim Toolchain Guardian is a Python-based desktop application designed to manage and monitor the development tools required for eSim workflows.
@@ -97,7 +97,7 @@ eSim-Toolchain-Guardian/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/DhanashriDhatrak/eSim-Toolchain-Guardian.git>
 cd eSim-Toolchain-Guardian
 ```
 
