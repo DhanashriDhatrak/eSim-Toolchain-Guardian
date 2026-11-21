@@ -1,0 +1,41 @@
+
+{
+    "tools": [
+        {
+            "id": "python",
+            "name": "Python",
+            "executable": "python3",
+            "version_args": ["--version"],
+            "package": "python3",
+            "required": true,
+            "requires": []
+        },
+        {
+            "id": "git",
+            "name": "Git",
+            "executable": "git",
+            "version_args": ["--version"],
+            "package": "git",
+            "required": true,
+            "requires": []
+        },
+        {
+            "id": "ngspice",
+            "name": "Ngspice",
+            "executable": "ngspice",
+            "version_args": ["--version"],
+            "package": "ngspice",
+            "required": true,
+            "requires": []
+        },
+        {
+            "id": "kicad",
+            "name": "KiCad CLI",
+            "executable": "kicad-cli",
+            "version_args": ["version"],
+            "package": "kicad",
+            "required": true,
+            "requires": []
+        }
+    ]
+}

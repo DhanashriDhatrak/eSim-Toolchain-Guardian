@@ -1,0 +1,23 @@
+
+{
+    "profiles": [
+        {
+            "id": "esim_simulation",
+            "name": "eSim Circuit Simulation",
+            "description": "Circuit simulation workflow",
+            "requires": ["python", "ngspice"]
+        },
+        {
+            "id": "esim_pcb",
+            "name": "eSim PCB Design",
+            "description": "PCB design workflow",
+            "requires": ["python", "git", "kicad"]
+        },
+        {
+            "id": "development",
+            "name": "Development Environment",
+            "description": "General development tools",
+            "requires": ["python", "git"]
+        }
+    ]
+}
